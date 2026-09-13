@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 Wafer Yield Root Cause & Defect Pattern Analyser
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | Yield Hunters |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | Pritesh Parekh — priteshparekh5117@gmail.com |
+| **Members** | Krishu Khunt, Sneha Nabhoya , Yug |
 
 ---
 
