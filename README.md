@@ -1,4 +1,4 @@
-# 🚀 Wafer Yield Root Cause & Defect Pattern Analyser
+# 🚀 [Wafer Yield Root Cause & Defect Pattern Analyser]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | Yield Hunters |
+| **Team Name** | [Yield Hunters] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | Pritesh Parekh — priteshparekh5117@gmail.com |
-| **Members** | Krishu Khunt, Sneha Nabhoya , Yug |
+| **Team Lead** | [Pritesh Parekh] — [priteshparekh5117@gmail.com] |
+| **Members** | [Krishu Khunt], [Sneha Nabhoya] , [Yug] |
 
 ---
 
